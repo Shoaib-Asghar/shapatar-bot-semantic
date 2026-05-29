@@ -16,8 +16,7 @@ Thumbs.db
 .vscode/
 
 # sentence-transformers downloads models into a local cache.
-# These are large binary files (hundreds of MB) that should
-# never be committed to Git — they are downloaded automatically
-# on first run, not stored in the repo.
 .cache/
 models/
+
+.venv/
