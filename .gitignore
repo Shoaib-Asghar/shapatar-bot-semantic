@@ -20,3 +20,5 @@ Thumbs.db
 models/
 
 .venv/
+
+intent_index.pkl
